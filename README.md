@@ -1,4 +1,4 @@
-### Here is a little bit about me... 👋
+## Welcome to my Github page 👋
 
 
 
@@ -7,3 +7,6 @@
 - 🤔 I’m looking for help with exploring new machine learning projects and datasets.
 - 📫 How to reach me: akhalifaa99@gmail.com
 - ⚡ Fun fact: I come from a Civil Engineering background with a passion for TECH!!
+
+
+Hit me up on Linkedin 🙂: https://www.linkedin.com/in/abdulkhalifa/
